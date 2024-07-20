@@ -1,9 +1,10 @@
 import React from 'react';
 
-const Page = () => {
+const Page = async () => {
+
     return (
         <div>
-<h1>Customers</h1>
+            <h1>Customers</h1>
         </div>
     );
 };
